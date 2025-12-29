@@ -1,0 +1,48 @@
+{
+    "message": "Hello from Toon World!",
+    "status": "success",
+    "characters": [
+        {
+            "id": 1,
+            "name": "SpongeBob SquarePants",
+            "show": "SpongeBob SquarePants",
+            "description": "A yellow sea sponge who loves his job as a fry cook.",
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SpongeBob_SquarePants_character.svg/1200px-SpongeBob_SquarePants_character.svg.png"
+        },
+        {
+            "id": 2,
+            "name": "Mickey Mouse",
+            "show": "Disney",
+            "description": "The mascot of The Walt Disney Company, an anthropomorphic mouse.",
+            "image": "https://upload.wikimedia.org/wikipedia/en/d/d4/Mickey_Mouse.png"
+        },
+        {
+            "id": 3,
+            "name": "Homer Simpson",
+            "show": "The Simpsons",
+            "description": "The father of the Simpson family, known for his love of donuts.",
+            "image": "https://upload.wikimedia.org/wikipedia/en/0/02/Homer_Simpson_2006.png"
+        },
+        {
+            "id": 4,
+            "name": "Bugs Bunny",
+            "show": "Looney Tunes",
+            "description": "A clever, gray hare known for his catchphrase 'What's up, Doc?'",
+            "image": "https://upload.wikimedia.org/wikipedia/en/1/17/Bugs_Bunny.svg"
+        },
+        {
+            "id": 5,
+            "name": "Tom",
+            "show": "Tom and Jerry",
+            "description": "A grey and white domestic short hair cat who chases Jerry.",
+            "image": "https://upload.wikimedia.org/wikipedia/en/f/f6/Tom_Tom_and_Jerry.png"
+        },
+        {
+            "id": 6,
+            "name": "Jerry",
+            "show": "Tom and Jerry",
+            "description": "A brown house mouse who frequently outwits Tom.",
+            "image": "https://upload.wikimedia.org/wikipedia/en/2/2f/Jerry_Mouse.png"
+        }
+    ]
+}
